@@ -1,3 +1,3 @@
 ## Кинотеатр.
-- 🔷 Ссылка на githubPage: https://github.com/ik7749/movie
+- 🔷 Ссылка на githubPage: https://ik7749.github.io/movie/
 - 🔷 Стэк технологий: HTML, CSS, JavaScript, Git
